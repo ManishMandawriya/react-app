@@ -1,13 +1,169 @@
-body {
+  body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4ncJa') ;
+  background-repeat:no-repeat ;
+  background-size: 1450px;
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+#title{
+   /* background-color:lightblue; */
+   border-radius: 25px;
+    margin-top: 3%;
+text-align: center;
+  margin-right:20%;
+margin-left: 20%;
+  padding: 5%; 
+background-color: rgba(255, 255, 255, 0.3);
+-webkit-backdrop-filter: blur(10px);
+backdrop-filter: blur(5px);
+}
+#contact{
+  background-color:lightblue;
+  margin-left:2% ;
+  margin-right:50% ;
+  border-radius: 10px;
+  margin-top: 2%;
+  padding: 1%;
+  background-color: rgba(255, 255, 255, 0.3);
+-webkit-backdrop-filter: blur(10px);
+backdrop-filter: blur(10px);
+
+}
+#about{
+  background-color:lightblue;
+  margin-left:2% ;
+  margin-right:50% ;
+  border-radius: 10px;
+  margin-top: 2%;
+  padding: 1%;
+  background-color: rgba(255, 255, 255, 0.3);
+-webkit-backdrop-filter: blur(10px);
+backdrop-filter: blur(10px);
+}
+#abt{
+  margin-left: 1%;
+  margin-top: 1%;
+  background-color: rgba(24, 233, 19, 0.3);
+-webkit-backdrop-filter: blur(10px);
+backdrop-filter: blur(5px);
+}
+#cnt{
+  margin-left: 1%;
+margin-top: 1%;
+background-color: rgba(24, 233, 19, 0.3);
+-webkit-backdrop-filter: blur(10px);
+backdrop-filter: blur(5px);
+}
+#home{
+  margin-left: 1%;
+  margin-top: 1%;
+  background-color: rgba(24, 233, 19, 0.3);
+-webkit-backdrop-filter: blur(10px);
+backdrop-filter: blur(5px);
+}
+#btn{
+margin-left: 2%;
+}
+#btn2{
+  text-decoration: none;
+
+}
+#sbtn{
+  margin-left: 1%;
+  margin-top: 1%;
+  background-color: rgba(24, 233, 19, 0.3);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(5px);
+
+}
+#series{
+  margin-top: 5%;
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  border-radius: 10px;
+  padding: 1.5%;
+  background-color: rgba(255, 255, 255, 0.3);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(5px);
+}
+#series1{
+  width: 200px;
+  margin-left: 120px;
+  border-radius: 20px;
+  margin-top: 100px;
+}
+#series1:hover{
+  width: 209px;
+  margin-left: 120px;
+  border-radius: 20px;
+  margin-top: 100px;
+}
+#series2{
+  width: 200px;
+  margin-left: 600px;
+  border-radius: 20px;
+margin-top: -500px;
+
+}
+#series2:hover{
+  width: 210px;
+  margin-left: 600px;
+  border-radius: 20px;
+margin-top: -500px;
+}
+#sn1{
+
+  margin-left: 50px;
+  margin-right: 74%;
+  border-radius: 10px;
+  padding: 1.5%;
+  background-color: rgba(255, 255, 255, 0.3);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(5px);
+}
+#sn2{
+
+  margin-left: 635px;
+  margin-right:670px;
+  border-radius: 10px;
+  margin-top: -110px;
+  padding: 1.5%;
+  background-color: rgba(255, 255, 255, 0.3);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(5px);
+}
+#series3{
+  width: 200px;
+  margin-left: 1100px;
+  border-radius: 20px;
+margin-top: -500px;
+
+}
+#series3:hover{
+  width: 210px;
+  margin-left: 1100px;
+  border-radius: 20px;
+margin-top: -500px;
+}
+#sn3{
+
+  margin-left: 1090px;
+  margin-right:90px;
+  border-radius: 10px;
+  margin-top: -110px;
+  padding: 1.5%;
+  background-color: rgba(255, 255, 255, 0.3);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(5px);
 }
